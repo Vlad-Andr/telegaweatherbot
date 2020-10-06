@@ -1,0 +1,9 @@
+home/edu/telegabot/bot/Bot.class
+home/edu/telegabot/service/WServiceImpl.class
+home/edu/telegabot/service/WeatherService.class
+home/edu/telegabot/exception/IncorrectCityNameException.class
+home/edu/telegabot/config/BotConfig.class
+home/edu/telegabot/TelegabotApplication.class
+home/edu/telegabot/model/WeatherResponce.class
+home/edu/telegabot/service/ApiConstans.class
+home/edu/telegabot/model/Weather.class

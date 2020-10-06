@@ -1,0 +1,9 @@
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/service/WeatherService.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/bot/Bot.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/exception/IncorrectCityNameException.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/TelegabotApplication.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/config/BotConfig.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/model/WeatherResponce.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/service/WServiceImpl.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/model/Weather.java
+/home/vladmenfurd/Usefull/3Proj/src/main/java/home/edu/telegabot/service/ApiConstans.java
